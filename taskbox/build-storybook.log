@@ -1,6 +1,6 @@
 
 > taskbox@0.2.0 build-storybook
-> ng run taskbox:build-storybook --output-dir C:\Users\lenovo\AppData\Local\Temp\chromatic--1228-m0Jm3vG31l7i
+> ng run taskbox:build-storybook --output-dir C:\Users\lenovo\AppData\Local\Temp\chromatic--6068-cgEp5BmjSf3r
 
 [0m
 [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
@@ -25,185 +25,185 @@ Node.js version : v18.18.1
 
 Operating system : Windows 10
 
-[19:01:36] No configuration file found, switching to CLI flags.
-[19:01:37] Using tsconfig file : E:\work\git\Storybook\taskbox\.storybook\tsconfig.json
-[19:01:37] Excluding      : E:\work\git\Storybook\taskbox\jest-global-mocks.ts
-[19:01:37] Excluding      : E:\work\git\Storybook\taskbox\setup-jest.ts
-[19:01:37] Excluding      : E:\work\git\Storybook\taskbox\.storybook\main.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\.storybook\preview.ts
-[19:01:37] Ignoring       : E:\work\git\Storybook\taskbox\.storybook\typings.d.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\main.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\polyfills.ts
-[19:01:37] Ignoring       : E:\work\git\Storybook\taskbox\src\app\app.component.spec.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\app.component.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\app.module.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\environments\environment.prod.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\environments\environment.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\stories\button.component.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\stories\Button.stories.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\stories\header.component.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\stories\Header.stories.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\stories\page.component.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\stories\Page.stories.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\stories\User.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\components\inbox-screen.component.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\components\pure-inbox-screen.component.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\components\pure-inbox-screen.stories.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\components\pure-task-list.component.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\components\pure-task-list.stories.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\components\task-list.component.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\components\task-list.stories.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\components\task.component.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\components\task.module.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\components\task.stories.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\models\task.model.ts
-[19:01:37] Including      : E:\work\git\Storybook\taskbox\src\app\state\task.state.ts
-[19:01:37] Searching package.json file
-[19:01:37] package.json file found
-[19:01:37] Processing package.json dependencies
-[19:01:37] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
-[19:01:37] README.md file found
-[19:01:37] Error during E:\work\git\Storybook\taskbox\CHANGELOG read
-[19:01:37] Continuing without CHANGELOG.md file
-[19:01:37] Error during E:\work\git\Storybook\taskbox\CONTRIBUTING read
-[19:01:37] Continuing without CONTRIBUTING.md file
-[19:01:37] LICENSE.md file found
-[19:01:37] Error during E:\work\git\Storybook\taskbox\TODO read
-[19:01:37] Continuing without TODO.md file
-[19:01:37] Get dependencies data
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/.storybook/preview.ts
-[19:01:38] found          : preview
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/main.ts
-[19:01:38] found          : config
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/polyfills.ts
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/app.component.ts
-[19:01:38] found          : AppComponent
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/app.module.ts
-[19:01:38] found          : AppModule
-[19:01:38]                : - imports:
-[19:01:38]                : 	- BrowserModule
-[19:01:38]                : 	- TaskModule
-[19:01:38]                : 	- NgxsModule
-[19:01:38]                : 	- NgxsReduxDevtoolsPluginModule
-[19:01:38]                : 	- NgxsLoggerPluginModule
-[19:01:38]                : - declarations:
-[19:01:38]                : 	- AppComponent
-[19:01:38]                : 	- InboxScreenComponent
-[19:01:38]                : 	- PureInboxScreenComponent
-[19:01:38]                : - bootstrap:
-[19:01:38]                : 	- AppComponent
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/environments/environment.prod.ts
-[19:01:38] found          : environment
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/environments/environment.ts
-[19:01:38] found          : environment
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/stories/button.component.ts
-[19:01:38] found          : ButtonComponent
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/stories/Button.stories.ts
-[19:01:38] found          : meta
-[19:01:38] found          : Story
-[19:01:38] found          : Primary
-[19:01:38] found          : Secondary
-[19:01:38] found          : Large
-[19:01:38] found          : Small
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/stories/header.component.ts
-[19:01:38] found          : HeaderComponent
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/stories/Header.stories.ts
-[19:01:38] found          : meta
-[19:01:38] found          : Story
-[19:01:38] found          : LoggedIn
-[19:01:38] found          : LoggedOut
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/stories/page.component.ts
-[19:01:38] found          : PageComponent
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/stories/Page.stories.ts
-[19:01:38] found          : meta
-[19:01:38] found          : Story
-[19:01:38] found          : LoggedOut
-[19:01:38] found          : LoggedIn
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/stories/User.ts
-[19:01:38] found          : User
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/components/inbox-screen.component.ts
-[19:01:38] found          : InboxScreenComponent
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/components/pure-inbox-screen.component.ts
-[19:01:38] found          : PureInboxScreenComponent
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/components/pure-inbox-screen.stories.ts
-[19:01:38] found          : meta
-[19:01:38] found          : Story
-[19:01:38] found          : Default
-[19:01:38] found          : Error
-[19:01:38] found          : WithInteractions
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/components/pure-task-list.component.ts
-[19:01:38] found          : PureTaskListComponent
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/components/pure-task-list.stories.ts
-[19:01:38] found          : meta
-[19:01:38] found          : Story
-[19:01:38] found          : Default
-[19:01:38] found          : WithPinnedTasks
-[19:01:38] found          : Loading
-[19:01:38] found          : Empty
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/components/task-list.component.ts
-[19:01:38] found          : TaskListComponent
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/components/task-list.stories.ts
-[19:01:38] found          : meta
-[19:01:38] found          : Story
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/components/task.component.ts
-[19:01:38] found          : TaskComponent
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/components/task.module.ts
-[19:01:38] found          : TaskModule
-[19:01:38]                : - imports:
-[19:01:38]                : 	- CommonModule
-[19:01:38]                : 	- NgxsModule
-[19:01:38]                : - exports:
-[19:01:38]                : 	- TaskComponent
-[19:01:38]                : 	- TaskListComponent
-[19:01:38]                : - declarations:
-[19:01:38]                : 	- TaskComponent
-[19:01:38]                : 	- TaskListComponent
-[19:01:38]                : 	- PureTaskListComponent
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/components/task.stories.ts
-[19:01:38] found          : actionsData
-[19:01:38] found          : meta
-[19:01:38] found          : Story
-[19:01:38] found          : Default
-[19:01:38] found          : Pinned
-[19:01:38] found          : Archived
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/models/task.model.ts
-[19:01:38] found          : Task
-[19:01:38] parsing        : E:/work/git/Storybook/taskbox/src/app/state/task.state.ts
-[19:01:38] found          : actions
-[19:01:38] found          : ArchiveTask
-[19:01:38] found          : PinTask
-[19:01:38] found          : AppError
-[19:01:38] found          : defaultTasks
-[19:01:38] found          : TaskStateModel
-[19:01:38] found          : TasksState
-[19:01:38] -------------------
-[19:01:38] Project statistics 
-[19:01:38] - files      : 27
-[19:01:38] - module     : 2
-[19:01:38] - component  : 9
-[19:01:38] - injectable : 1
-[19:01:38] - class      : 3
-[19:01:38] - interface  : 3
-[19:01:38] -------------------
-[19:01:38] Prepare components
-[19:01:38]  ButtonComponent has styleUrls, include them
-[19:01:38]  HeaderComponent has styleUrls, include them
-[19:01:38]  PageComponent has styleUrls, include them
-[19:01:38] Prepare modules
-[19:01:38] Prepare injectables
-[19:01:38] Prepare classes
-[19:01:38] Prepare interfaces
-[19:01:38] Prepare miscellaneous
-[19:01:38] Process documentation coverage report
-[19:01:38] Generating documentation in export format json
-[19:01:38] Documentation generated in ./ in 4.697 seconds
-info => Cleaning outputDir: C:\Users\lenovo\AppData\Local\Temp\chromatic--1228-m0Jm3vG31l7i
+[19:09:38] No configuration file found, switching to CLI flags.
+[19:09:38] Using tsconfig file : E:\work\git\Storybook\taskbox\.storybook\tsconfig.json
+[19:09:38] Excluding      : E:\work\git\Storybook\taskbox\jest-global-mocks.ts
+[19:09:38] Excluding      : E:\work\git\Storybook\taskbox\setup-jest.ts
+[19:09:38] Excluding      : E:\work\git\Storybook\taskbox\.storybook\main.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\.storybook\preview.ts
+[19:09:38] Ignoring       : E:\work\git\Storybook\taskbox\.storybook\typings.d.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\main.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\polyfills.ts
+[19:09:38] Ignoring       : E:\work\git\Storybook\taskbox\src\app\app.component.spec.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\app.component.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\app.module.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\environments\environment.prod.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\environments\environment.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\stories\button.component.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\stories\Button.stories.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\stories\header.component.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\stories\Header.stories.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\stories\page.component.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\stories\Page.stories.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\stories\User.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\components\inbox-screen.component.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\components\pure-inbox-screen.component.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\components\pure-inbox-screen.stories.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\components\pure-task-list.component.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\components\pure-task-list.stories.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\components\task-list.component.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\components\task-list.stories.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\components\task.component.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\components\task.module.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\components\task.stories.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\models\task.model.ts
+[19:09:38] Including      : E:\work\git\Storybook\taskbox\src\app\state\task.state.ts
+[19:09:39] Searching package.json file
+[19:09:39] package.json file found
+[19:09:39] Processing package.json dependencies
+[19:09:39] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[19:09:39] README.md file found
+[19:09:39] Error during E:\work\git\Storybook\taskbox\CHANGELOG read
+[19:09:39] Continuing without CHANGELOG.md file
+[19:09:39] Error during E:\work\git\Storybook\taskbox\CONTRIBUTING read
+[19:09:39] Continuing without CONTRIBUTING.md file
+[19:09:39] LICENSE.md file found
+[19:09:39] Error during E:\work\git\Storybook\taskbox\TODO read
+[19:09:39] Continuing without TODO.md file
+[19:09:39] Get dependencies data
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/.storybook/preview.ts
+[19:09:39] found          : preview
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/main.ts
+[19:09:39] found          : config
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/polyfills.ts
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/app.component.ts
+[19:09:39] found          : AppComponent
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/app.module.ts
+[19:09:39] found          : AppModule
+[19:09:39]                : - imports:
+[19:09:39]                : 	- BrowserModule
+[19:09:39]                : 	- TaskModule
+[19:09:39]                : 	- NgxsModule
+[19:09:39]                : 	- NgxsReduxDevtoolsPluginModule
+[19:09:39]                : 	- NgxsLoggerPluginModule
+[19:09:39]                : - declarations:
+[19:09:39]                : 	- AppComponent
+[19:09:39]                : 	- InboxScreenComponent
+[19:09:39]                : 	- PureInboxScreenComponent
+[19:09:39]                : - bootstrap:
+[19:09:39]                : 	- AppComponent
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/environments/environment.prod.ts
+[19:09:39] found          : environment
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/environments/environment.ts
+[19:09:39] found          : environment
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/stories/button.component.ts
+[19:09:39] found          : ButtonComponent
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/stories/Button.stories.ts
+[19:09:39] found          : meta
+[19:09:39] found          : Story
+[19:09:39] found          : Primary
+[19:09:39] found          : Secondary
+[19:09:39] found          : Large
+[19:09:39] found          : Small
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/stories/header.component.ts
+[19:09:39] found          : HeaderComponent
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/stories/Header.stories.ts
+[19:09:39] found          : meta
+[19:09:39] found          : Story
+[19:09:39] found          : LoggedIn
+[19:09:39] found          : LoggedOut
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/stories/page.component.ts
+[19:09:39] found          : PageComponent
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/stories/Page.stories.ts
+[19:09:39] found          : meta
+[19:09:39] found          : Story
+[19:09:39] found          : LoggedOut
+[19:09:39] found          : LoggedIn
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/stories/User.ts
+[19:09:39] found          : User
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/components/inbox-screen.component.ts
+[19:09:39] found          : InboxScreenComponent
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/components/pure-inbox-screen.component.ts
+[19:09:39] found          : PureInboxScreenComponent
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[19:09:39] found          : meta
+[19:09:39] found          : Story
+[19:09:39] found          : Default
+[19:09:39] found          : Error
+[19:09:39] found          : WithInteractions
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/components/pure-task-list.component.ts
+[19:09:39] found          : PureTaskListComponent
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/components/pure-task-list.stories.ts
+[19:09:39] found          : meta
+[19:09:39] found          : Story
+[19:09:39] found          : Default
+[19:09:39] found          : WithPinnedTasks
+[19:09:39] found          : Loading
+[19:09:39] found          : Empty
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/components/task-list.component.ts
+[19:09:39] found          : TaskListComponent
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/components/task-list.stories.ts
+[19:09:39] found          : meta
+[19:09:39] found          : Story
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/components/task.component.ts
+[19:09:39] found          : TaskComponent
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/components/task.module.ts
+[19:09:39] found          : TaskModule
+[19:09:39]                : - imports:
+[19:09:39]                : 	- CommonModule
+[19:09:39]                : 	- NgxsModule
+[19:09:39]                : - exports:
+[19:09:39]                : 	- TaskComponent
+[19:09:39]                : 	- TaskListComponent
+[19:09:39]                : - declarations:
+[19:09:39]                : 	- TaskComponent
+[19:09:39]                : 	- TaskListComponent
+[19:09:39]                : 	- PureTaskListComponent
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/components/task.stories.ts
+[19:09:39] found          : actionsData
+[19:09:39] found          : meta
+[19:09:39] found          : Story
+[19:09:39] found          : Default
+[19:09:39] found          : Pinned
+[19:09:39] found          : Archived
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/models/task.model.ts
+[19:09:39] found          : Task
+[19:09:39] parsing        : E:/work/git/Storybook/taskbox/src/app/state/task.state.ts
+[19:09:39] found          : actions
+[19:09:39] found          : ArchiveTask
+[19:09:39] found          : PinTask
+[19:09:39] found          : AppError
+[19:09:39] found          : defaultTasks
+[19:09:39] found          : TaskStateModel
+[19:09:39] found          : TasksState
+[19:09:39] -------------------
+[19:09:39] Project statistics 
+[19:09:39] - files      : 27
+[19:09:39] - module     : 2
+[19:09:39] - component  : 9
+[19:09:39] - injectable : 1
+[19:09:39] - class      : 3
+[19:09:39] - interface  : 3
+[19:09:39] -------------------
+[19:09:39] Prepare components
+[19:09:39]  ButtonComponent has styleUrls, include them
+[19:09:39]  HeaderComponent has styleUrls, include them
+[19:09:39]  PageComponent has styleUrls, include them
+[19:09:39] Prepare modules
+[19:09:39] Prepare injectables
+[19:09:39] Prepare classes
+[19:09:39] Prepare interfaces
+[19:09:39] Prepare miscellaneous
+[19:09:39] Process documentation coverage report
+[19:09:39] Generating documentation in export format json
+[19:09:39] Documentation generated in ./ in 1.469 seconds
+info => Cleaning outputDir: C:\Users\lenovo\AppData\Local\Temp\chromatic--6068-cgEp5BmjSf3r
 
 info => Loading presets
 info => Building manager..
-info => Manager built (4.65 s)
+info => Manager built (1.52 s)
 info => Building preview..
-info => Copying static files: E:\work\git\Storybook\taskbox\node_modules\@storybook\manager\static at C:\Users\lenovo\AppData\Local\Temp\chromatic--1228-m0Jm3vG31l7i\sb-common-assets
+info => Copying static files: E:\work\git\Storybook\taskbox\node_modules\@storybook\manager\static at C:\Users\lenovo\AppData\Local\Temp\chromatic--6068-cgEp5BmjSf3r\sb-common-assets
 info Addon-docs: using MDX2
 info => Using implicit CSS loaders
 info => Using angular browser target options from "taskbox:build"
@@ -320,35 +320,24 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
 <s> [webpack.Progress] 10% building 0/3 entries 1/3 dependencies 0/1 modules
-<s> [webpack.Progress] 10% building 0/3 entries 1/4 dependencies 0/1 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
 <s> [webpack.Progress] 10% building 0/3 entries 2/4 dependencies 0/2 modules
-<s> [webpack.Progress] 10% building 0/3 entries 4/5 dependencies 0/4 modules
-<s> [webpack.Progress] 28% building 1/3 entries 8/21 dependencies 1/8 modules
+<s> [webpack.Progress] 20% building 1/3 entries 4/21 dependencies 1/4 modules
 <s> [webpack.Progress] 28% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
-<s> [webpack.Progress] 28% building 1/3 entries 22/23 dependencies 4/22 modules
+<s> [webpack.Progress] 28% building 1/3 entries 22/31 dependencies 4/22 modules
 <s> [webpack.Progress] 28% building import loader ./node_modules/unplugin/dist/webpack/loaders/load.js
-<s> [webpack.Progress] 28% building 1/3 entries 59/76 dependencies 9/43 modules
-<s> [webpack.Progress] 46% building 2/3 entries 76/86 dependencies 18/53 modules
-<s> [webpack.Progress] 46% building 2/3 entries 127/144 dependencies 22/81 modules
-<s> [webpack.Progress] 46% building 2/3 entries 183/211 dependencies 40/88 modules
-<s> [webpack.Progress] 46% building 2/3 entries 214/230 dependencies 43/97 modules
-<s> [webpack.Progress] 46% building 2/3 entries 227/252 dependencies 48/101 modules
-<s> [webpack.Progress] 41% building 2/3 entries 500/877 dependencies 58/281 modules
-<s> [webpack.Progress] 46% building 2/3 entries 957/1100 dependencies 78/496 modules
-<s> [webpack.Progress] 46% building 2/3 entries 1295/1400 dependencies 98/541 modules
-<s> [webpack.Progress] 46% building 2/3 entries 1436/1500 dependencies 102/557 modules
-<s> [webpack.Progress] 46% building 2/3 entries 1725/1800 dependencies 125/594 modules
-<s> [webpack.Progress] 46% building 2/3 entries 2055/2099 dependencies 200/628 modules
-<s> [webpack.Progress] 46% building 2/3 entries 2129/2192 dependencies 300/644 modules
-<s> [webpack.Progress] 46% building 2/3 entries 2295/2314 dependencies 480/700 modules
-<s> [webpack.Progress] 46% building 2/3 entries 2327/2400 dependencies 533/704 modules
-<s> [webpack.Progress] 46% building 2/3 entries 2540/2600 dependencies 593/783 modules
-<s> [webpack.Progress] 47% building 2/3 entries 2775/2800 dependencies 681/868 modules
-<s> [webpack.Progress] 51% building 2/3 entries 2895/3061 dependencies 762/900 modules
-<s> [webpack.Progress] 57% building 2/3 entries 3085/3104 dependencies 900/1048 modules
-<s> [webpack.Progress] 60% building 2/3 entries 3100/3119 dependencies 974/1054 modules
-<s> [webpack.Progress] 62% building 2/3 entries 3296/3300 dependencies 1071/1115 modules
+<s> [webpack.Progress] 28% building 1/3 entries 50/62 dependencies 5/41 modules
+<s> [webpack.Progress] 46% building 2/3 entries 68/86 dependencies 17/46 modules
+<s> [webpack.Progress] 46% building 2/3 entries 200/227 dependencies 39/92 modules
+<s> [webpack.Progress] 46% building 2/3 entries 216/241 dependencies 47/96 modules
+<s> [webpack.Progress] 46% building 2/3 entries 800/828 dependencies 63/461 modules
+<s> [webpack.Progress] 46% building 2/3 entries 1138/1200 dependencies 79/514 modules
+<s> [webpack.Progress] 46% building 2/3 entries 1686/1700 dependencies 120/592 modules
+<s> [webpack.Progress] 46% building 2/3 entries 2123/2164 dependencies 300/633 modules
+<s> [webpack.Progress] 46% building 2/3 entries 2400/2409 dependencies 503/756 modules
+<s> [webpack.Progress] 46% building 2/3 entries 2600/2676 dependencies 602/785 modules
+<s> [webpack.Progress] 50% building 2/3 entries 2858/3070 dependencies 729/900 modules
+<s> [webpack.Progress] 62% building 2/3 entries 3200/3237 dependencies 1041/1083 modules
 <s> [webpack.Progress] 65% building 3/3 entries 3317/3317 dependencies 1118/1118 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
@@ -453,14 +442,14 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.9fbcbd82f52d2133dd88.css generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.9fbcbd82f52d2133dd88.css generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.87984192.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.87984192.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.4498dc1e.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.4498dc1e.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin pure-inbox-screen-stories.7ce7c9d0.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin pure-inbox-screen-stories.7ce7c9d0.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin pure-task-list-stories.7dc20776.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin pure-task-list-stories.7dc20776.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.654e7454.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.654e7454.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.ff2fbe02.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.ff2fbe02.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin pure-inbox-screen-stories.16073fcd.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin pure-inbox-screen-stories.16073fcd.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin pure-task-list-stories.bdf5b324.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin pure-task-list-stories.bdf5b324.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin task-list-stories.22e8747a.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin task-list-stories.22e8747a.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin task-stories.e70e7a3b.iframe.bundle.js generate SourceMap
@@ -504,14 +493,14 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.78c585731dd80640119c.css generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.78c585731dd80640119c.css generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.d3edcc35.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.d3edcc35.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.efcbb9da.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.efcbb9da.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin pure-inbox-screen-stories.2acf3a22.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin pure-inbox-screen-stories.2acf3a22.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin pure-task-list-stories.6bde79ed.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin pure-task-list-stories.6bde79ed.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.562b2639.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.562b2639.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.23621bd9.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.23621bd9.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin pure-inbox-screen-stories.50c78d49.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin pure-inbox-screen-stories.50c78d49.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin pure-task-list-stories.958bd148.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin pure-task-list-stories.958bd148.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin task-list-stories.977ebca1.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin task-list-stories.977ebca1.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin task-stories.d88eb1ed.iframe.bundle.js generate SourceMap
@@ -596,14 +585,14 @@ WARN   493.d2e09822.iframe.bundle.js (394 KiB)
 WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
 WARN Entrypoints:
 WARN   main (2.07 MiB)
-WARN       runtime~main.efcbb9da.iframe.bundle.js
+WARN       runtime~main.23621bd9.iframe.bundle.js
 WARN       608.007bcbb4.iframe.bundle.js
 WARN       main.78c585731dd80640119c.css
-WARN       main.d3edcc35.iframe.bundle.js
+WARN       main.562b2639.iframe.bundle.js
 WARN 
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Preview built (1.78 min)
-info => Output directory: C:\Users\lenovo\AppData\Local\Temp\chromatic--1228-m0Jm3vG31l7i
+info => Preview built (53 s)
+info => Output directory: C:\Users\lenovo\AppData\Local\Temp\chromatic--6068-cgEp5BmjSf3r
