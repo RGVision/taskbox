@@ -33,9 +33,9 @@ label {
   line-height: 1;
   font-family: inherit;
   vertical-align: baseline;
-  *vertical-align: middle;
+  vertical-align: middle;
   line-height: normal;
-  *overflow: visible;
+  overflow: visible;
   font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -458,3 +458,8 @@ textarea {
   vertical-align: top;
   max-width: 100%;
 }
+
+.list-item.TASK_ARCHIVED input[type="text"] {
+  color: rgb(72, 94, 143);
+   text-decoration: line-through;
+ }
