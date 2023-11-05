@@ -1,0 +1,121 @@
+
+Chromatic CLI v7.6.0
+https://www.chromatic.com/docs/cli
+
+Authenticating with Chromatic
+    → Connecting to https://index.chromatic.com
+Authenticated with Chromatic
+    → Using project token '****************59f9'
+Retrieving git information
+Retrieved git information
+    → Commit '2705741' on branch 'main'; no ancestor found
+Collecting Storybook metadata
+Collected Storybook metadata
+    → Storybook 7.5.2 for Angular; using the @storybook/angular builder (7.5.2); supported addons found: Links, Essentials, Interactions, A11y
+Initializing build
+Initialized build
+    → Build 1 initialized
+Building your Storybook
+    → Running command: npm run build-storybook -- --output-dir C:\Users\lenovo\AppData\Local\Temp\chromatic--10596-NesJvl2lPTP7
+Storybook built in 5 minutes 46 seconds
+    → View build log at E:\work\git\Storybook\taskbox\build-storybook.log
+Publish your built Storybook
+    → Validating Storybook files
+Publishing your built Storybook
+    → Retrieving target location
+    → Starting publish
+    → [                    ] 1%
+    → [==                  ] 8%
+    → [===                 ] 13%
+    → [===                 ] 14%
+    → [===                 ] 15%
+    → [===                 ] 17%
+    → [====                ] 18%
+    → [====                ] 19%
+    → [====                ] 20%
+    → [====                ] 22%
+    → [=====               ] 23%
+    → [=====               ] 24%
+    → [=====               ] 25%
+    → [=====               ] 26%
+    → [=====               ] 27%
+    → [======              ] 28%
+    → [======              ] 30%
+    → [======              ] 31%
+    → [======              ] 32%
+    → [=======             ] 33%
+    → [=======             ] 35%
+    → [=======             ] 36%
+    → [========            ] 39%
+    → [========            ] 40%
+    → [========            ] 41%
+    → [=========           ] 43%
+    → [=========           ] 44%
+    → [=========           ] 46%
+    → [=========           ] 47%
+    → [==========          ] 48%
+    → [==========          ] 49%
+    → [==========          ] 50%
+    → [==========          ] 51%
+    → [==========          ] 52%
+    → [===========         ] 53%
+    → [===========         ] 54%
+    → [===========         ] 55%
+    → [===========         ] 56%
+    → [===========         ] 57%
+    → [============        ] 58%
+    → [============        ] 59%
+    → [============        ] 60%
+    → [============        ] 61%
+    → [============        ] 62%
+    → [=============       ] 64%
+    → [=============       ] 65%
+    → [=============       ] 66%
+    → [=============       ] 67%
+    → [==============      ] 69%
+    → [==============      ] 70%
+    → [==============      ] 72%
+    → [===============     ] 74%
+    → [===============     ] 76%
+    → [================    ] 78%
+    → [================    ] 79%
+    → [================    ] 81%
+    → [================    ] 82%
+    → [=================   ] 83%
+    → [=================   ] 86%
+    → [=================   ] 87%
+    → [==================  ] 88%
+    → [==================  ] 89%
+    → [==================  ] 90%
+    → [==================  ] 91%
+    → [=================== ] 93%
+    → [=================== ] 94%
+    → [=================== ] 96%
+    → [====================] 98%
+    → [====================] 99%
+    → [====================] 100%
+Publish complete in 32 seconds
+    → View your Storybook at https://65476d7e65daeb6b446dbffb-ykghnnxzut.chromatic.com
+Verifying your Storybook
+    → This may take a few minutes
+Started build 1
+    → Continue setup at https://www.chromatic.com/setup?appId=65476d7e65daeb6b446dbffb
+Running 10 tests
+    → This may take a few minutes
+    → [==                  ] 1/10  PureInboxScreen › Default 
+    → [====                ] 2/10  PureInboxScreen › Error 
+    → [======              ] 3/10  PureInboxScreen › With Interactions 
+    → [========            ] 4/10  PureTaskList › Default 
+    → [==========          ] 5/10  PureTaskList › With Pinned Tasks 
+    → [============        ] 6/10  PureTaskList › Loading 
+    → [==============      ] 7/10  PureTaskList › Empty 
+    → [================    ] 8/10  Task › Default 
+    → [==================  ] 9/10  Task › Pinned 
+    → [====================] 10/10  Task › Archived 
+√ Build passed. Welcome to Chromatic!
+We found 3 components with 10 stories and took 10 snapshots.
+i Please continue setup at https://www.chromatic.com/setup?appId=65476d7e65daeb6b446dbffb
+Build 1 auto-accepted
+    → Tested 10 stories across 3 components; captured 10 snapshots in 41 seconds
+
+
