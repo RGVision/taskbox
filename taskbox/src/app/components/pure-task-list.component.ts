@@ -17,7 +17,7 @@ import { Task } from '../models/task.model';
         class="wrapper-message"
       >
         <span class="icon-check"></span>
-        <p class="title-message">You have no tasks</p>
+        <p class="title-message">You have no tasks just sleep</p>
         <p class="subtitle-message">Sit back and relax</p>
       </div>
       <div *ngIf="loading">

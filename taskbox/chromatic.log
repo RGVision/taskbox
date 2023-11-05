@@ -5,19 +5,19 @@ https://www.chromatic.com/docs/cli
 Authenticating with Chromatic
     → Connecting to https://index.chromatic.com
 Authenticated with Chromatic
-    → Using project token '****************59f9'
+    → Using project token '****************b41c'
 Retrieving git information
 Retrieved git information
-    → Commit '2705741' on branch 'main'; no ancestor found
+    → Commit '906e809' on branch 'change-task-background'; found 1 parent build
 Collecting Storybook metadata
 Collected Storybook metadata
     → Storybook 7.5.2 for Angular; using the @storybook/angular builder (7.5.2); supported addons found: Links, Essentials, Interactions, A11y
 Initializing build
 Initialized build
-    → Build 1 initialized
+    → Build 2 initialized
 Building your Storybook
-    → Running command: npm run build-storybook -- --output-dir C:\Users\lenovo\AppData\Local\Temp\chromatic--10596-NesJvl2lPTP7
-Storybook built in 5 minutes 46 seconds
+    → Running command: npm run build-storybook -- --output-dir C:\Users\lenovo\AppData\Local\Temp\chromatic--1228-m0Jm3vG31l7i
+Storybook built in 3 minutes 22 seconds
     → View build log at E:\work\git\Storybook\taskbox\build-storybook.log
 Publish your built Storybook
     → Validating Storybook files
@@ -25,32 +25,35 @@ Publishing your built Storybook
     → Retrieving target location
     → Starting publish
     → [                    ] 1%
-    → [==                  ] 8%
+    → [=                   ] 7%
+    → [==                  ] 10%
+    → [==                  ] 11%
+    → [==                  ] 12%
     → [===                 ] 13%
     → [===                 ] 14%
-    → [===                 ] 15%
+    → [===                 ] 16%
     → [===                 ] 17%
     → [====                ] 18%
     → [====                ] 19%
-    → [====                ] 20%
+    → [====                ] 21%
     → [====                ] 22%
     → [=====               ] 23%
-    → [=====               ] 24%
     → [=====               ] 25%
     → [=====               ] 26%
-    → [=====               ] 27%
     → [======              ] 28%
+    → [======              ] 29%
     → [======              ] 30%
     → [======              ] 31%
     → [======              ] 32%
     → [=======             ] 33%
+    → [=======             ] 34%
     → [=======             ] 35%
     → [=======             ] 36%
-    → [========            ] 39%
+    → [=======             ] 37%
+    → [========            ] 38%
     → [========            ] 40%
-    → [========            ] 41%
-    → [=========           ] 43%
-    → [=========           ] 44%
+    → [========            ] 42%
+    → [=========           ] 45%
     → [=========           ] 46%
     → [=========           ] 47%
     → [==========          ] 48%
@@ -63,59 +66,56 @@ Publishing your built Storybook
     → [===========         ] 55%
     → [===========         ] 56%
     → [===========         ] 57%
-    → [============        ] 58%
     → [============        ] 59%
     → [============        ] 60%
     → [============        ] 61%
     → [============        ] 62%
+    → [=============       ] 63%
     → [=============       ] 64%
     → [=============       ] 65%
     → [=============       ] 66%
     → [=============       ] 67%
-    → [==============      ] 69%
+    → [==============      ] 68%
     → [==============      ] 70%
+    → [==============      ] 71%
     → [==============      ] 72%
-    → [===============     ] 74%
-    → [===============     ] 76%
+    → [===============     ] 73%
+    → [===============     ] 75%
     → [================    ] 78%
     → [================    ] 79%
-    → [================    ] 81%
+    → [================    ] 80%
     → [================    ] 82%
     → [=================   ] 83%
+    → [=================   ] 85%
     → [=================   ] 86%
     → [=================   ] 87%
     → [==================  ] 88%
-    → [==================  ] 89%
     → [==================  ] 90%
-    → [==================  ] 91%
-    → [=================== ] 93%
-    → [=================== ] 94%
+    → [==================  ] 92%
+    → [=================== ] 95%
     → [=================== ] 96%
+    → [=================== ] 97%
     → [====================] 98%
     → [====================] 99%
     → [====================] 100%
-Publish complete in 32 seconds
-    → View your Storybook at https://65476d7e65daeb6b446dbffb-ykghnnxzut.chromatic.com
+Publish complete in 44 seconds
+    → View your Storybook at https://6547971f8f48dcc4b550be82-iwivfvkoge.chromatic.com
 Verifying your Storybook
     → This may take a few minutes
-Started build 1
-    → Continue setup at https://www.chromatic.com/setup?appId=65476d7e65daeb6b446dbffb
+Started build 2
+    → View build details at https://www.chromatic.com/build?appId=6547971f8f48dcc4b550be82&number=2
 Running 10 tests
     → This may take a few minutes
+i Speed up Continuous Integration
+Your project is linked to GitHub so Chromatic will report results there.
+This means you can pass the --exit-once-uploaded flag to skip waiting for build results.
+Read more here: https://www.chromatic.com/docs/cli#chromatic-options
     → [==                  ] 1/10  PureInboxScreen › Default 
-    → [====                ] 2/10  PureInboxScreen › Error 
     → [======              ] 3/10  PureInboxScreen › With Interactions 
-    → [========            ] 4/10  PureTaskList › Default 
     → [==========          ] 5/10  PureTaskList › With Pinned Tasks 
-    → [============        ] 6/10  PureTaskList › Loading 
     → [==============      ] 7/10  PureTaskList › Empty 
     → [================    ] 8/10  Task › Default 
     → [==================  ] 9/10  Task › Pinned 
-    → [====================] 10/10  Task › Archived 
-√ Build passed. Welcome to Chromatic!
-We found 3 components with 10 stories and took 10 snapshots.
-i Please continue setup at https://www.chromatic.com/setup?appId=65476d7e65daeb6b446dbffb
-Build 1 auto-accepted
-    → Tested 10 stories across 3 components; captured 10 snapshots in 41 seconds
-
-
+√ Build 2 passed!
+No visual changes were found in this build.
+i View build details at https://www.chromatic.com/build?appId=6547971f8f48dcc4b550be82&number=2
