@@ -50,7 +50,7 @@
     "@compodoc/compodoc": "^1.1.19",
     "@storybook/addon-a11y": "^7.5.2",
     "@storybook/addon-essentials": "^7.0.6",
-    "@storybook/addon-interactions": "^7.0.6",
+    "@storybook/addon-interactions": "^7.5.2",
     "@storybook/addon-links": "^7.0.6",
     "@storybook/angular": "^7.0.6",
     "@storybook/blocks": "^7.0.6",
