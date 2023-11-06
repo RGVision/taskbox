@@ -2,7 +2,7 @@
 import { Injectable } from '@angular/core';
 import { State, Selector, Action, StateContext } from '@ngxs/store';
 import { patch, updateItem } from '@ngxs/store/operators';
-import { Task } from '../models/task.model';
+import { Task } from '../components/models/task.model';
 
 // Defines the actions available to the app
 export const actions = {
